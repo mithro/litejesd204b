@@ -40,7 +40,7 @@ Core:
 
 [> FPGA Proven
 ---------------
-LiteDRAM is already used in commercial and open-source designs:
+LiteJESD204B is already used in commercial and open-source designs:
 - ARTIQ: http://m-labs.hk/artiq/index.html
 - and others commercial designs...
 
